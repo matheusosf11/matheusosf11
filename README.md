@@ -9,7 +9,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Corredor_61-corredor--61.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://corredor-61.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Corredor_61-corredor--61--portfolio.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://corredor-61-portfolio.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:matheusos.dev@gmail.com)
 
 ![Profile views](https://komarev.com/ghpvc/?username=matheusosf11&color=58a6ff&style=flat-square&label=visitas+ao+perfil)
@@ -42,7 +42,7 @@ const matheus = {
 
 | Projeto | Descrição | Papel | Stack |
 |---------|-----------|-------|-------|
-| **[Corredor 61](https://corredor-61.vercel.app)** | Portal de notícias jurídicas, legislativas e políticas — layout editorial responsivo, animações, SEO e publicação pela equipe via CMS | Dev solo | Next.js · GSAP · Sanity |
+| **[Corredor 61](https://corredor-61-portfolio.vercel.app)** | Portal de notícias jurídicas, legislativas e políticas — layout editorial responsivo, animações, SEO e publicação pela equipe via CMS | Dev solo | Next.js · GSAP · Sanity |
 | **Sistema financeiro e de RH** | Aplicação web interna que substituiu planilhas para +60 colaboradores — tabelas com filtros, formulários validados, dashboards e tema claro/escuro, com testes E2E | Dev solo | Next.js · shadcn/ui · Supabase |
 | **Gestão de locação** | PWA para atendimento em tablet — cadastro, contrato com assinatura na tela e QR Code pela câmera, levando o atendimento de ~10 min para menos de 2 min | Dev solo | Next.js · PWA · Supabase |
 | **App de assinatura — saúde e bem-estar** | App mobile (iOS e Android) e painel administrativo web — interface premium fiel à marca, com vídeos, comunidade e assinaturas | Mobile + Web | React Native · Expo · Next.js |
@@ -146,7 +146,7 @@ const matheus = {
 
 <div align="center">
 
-📫 **Vamos conversar?** — [matheusos.dev@gmail.com](mailto:matheusos.dev@gmail.com) · [GitHub](https://github.com/matheusosf11) · [Corredor 61](https://corredor-61.vercel.app)
+📫 **Vamos conversar?** — [matheusos.dev@gmail.com](mailto:matheusos.dev@gmail.com) · [GitHub](https://github.com/matheusosf11) · [Corredor 61](https://corredor-61-portfolio.vercel.app)
 
 </div>
 
