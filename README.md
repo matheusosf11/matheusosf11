@@ -20,7 +20,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor Web com foco em **front-end**, construindo sites e aplicações web modernas, responsivas e escaláveis. Desenvolvi sozinho um **portal de notícias jurídicas e políticas**, um **sistema financeiro e de RH** usado no dia a dia por **mais de 60 colaboradores** e um **app de assinatura** com painel web. Tenho formação em **design gráfico**, o que me ajuda a transformar layouts do Figma em interfaces fiéis à marca — e venho me especializando em **Inteligência Artificial aplicada** ao desenvolvimento de software e à automação de processos.
+Desenvolvedor Web com foco em front-end, construindo sites e aplicações web modernas, responsivas e escaláveis. Desenvolvi sozinho um portal de notícias jurídicas e políticas, além de um sistema financeiro e de RH interno de uma empresa, usado no dia a dia por mais de 60 colaboradores, e de um app de assinatura com painel web. Tenho forte vivência em React, Next.js, Node.js e TypeScript, com formação em design gráfico que me ajuda a transformar layouts do Figma em interfaces fiéis à marca. Também venho me especializando em Inteligência Artificial (IA) aplicada ao desenvolvimento de software e à automação de processos. Entusiasta de código limpo, boas práticas e produtos que realmente entregam valor.
 
 ```typescript
 const matheus = {
