@@ -43,7 +43,7 @@ const matheus = {
 | Projeto | Descrição | Papel | Stack |
 |---------|-----------|-------|-------|
 | **[Corredor 61](https://corredor-61-portfolio.vercel.app)** | Portal de notícias jurídicas, legislativas e políticas — layout editorial responsivo, animações, SEO e publicação pela equipe via CMS | Dev solo | Next.js · GSAP · Sanity |
-| **Sistema financeiro e de RH** | Plataforma interna de gestão financeira e RH, usada por **+60 colaboradores** — conciliação bancária, dashboards em tempo real, relatórios, importação validada e controle de acesso com auditoria | Dev solo | Next.js · shadcn/ui · Supabase |
+| **Sistema financeiro e de RH** | Plataforma interna de gestão financeira e RH, usada por **+60 colaboradores** — conciliação bancária, dashboards em tempo real, relatórios gerenciais, importação validada e controle de acesso com auditoria | Dev solo | Next.js · shadcn/ui · Supabase |
 | **Gestão de locação** | PWA para atendimento em tablet — cadastro, contrato com assinatura na tela e QR Code pela câmera, levando o atendimento de ~10 min para menos de 2 min | Dev solo | Next.js · PWA · Supabase |
 | **App de assinatura — saúde e bem-estar** | App mobile (iOS e Android) e painel administrativo web — interface premium fiel à marca, com vídeos, comunidade e assinaturas | Mobile + Web | React Native · Expo · Next.js |
 
