@@ -49,15 +49,6 @@ const matheus = {
 
 <div align="center">
 
-### 🎬 Gestão de locação em ação
-
-<img src="assets/orla-sup-demo.webp" width="85%" alt="Demonstração: busca por CPF, escolha do equipamento, contrato assinado com QR Code e dashboard com cronômetros de devolução"/>
-
-<sub>Do CPF ao contrato assinado em menos de 2 minutos</sub>
-
-</div>
-
-📁 Veja todos os repositórios em **[github.com/matheusosf11](https://github.com/matheusosf11?tab=repositories)**
 
 ---
 
