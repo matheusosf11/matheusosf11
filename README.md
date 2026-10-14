@@ -44,8 +44,18 @@ const matheus = {
 |---------|-----------|-------|-------|
 | **[Corredor 61](https://corredor-61-portfolio.vercel.app)** | Portal de notícias jurídicas, legislativas e políticas — layout editorial responsivo, animações, SEO e publicação pela equipe via CMS | Dev solo | Next.js · GSAP · Sanity |
 | **Sistema financeiro e de RH** | Plataforma interna de gestão financeira e RH, usada por **+60 colaboradores** — conciliação bancária, dashboards em tempo real, relatórios gerenciais, importação validada e controle de acesso com auditoria | Dev solo | Next.js · Typescript · React · PostgreSQL/Supabase |
-| **Gestão de locação** | PWA para atendimento em tablet — cadastro, contrato com assinatura na tela e QR Code pela câmera, levando o atendimento de ~10 min para menos de 2 min | Dev solo | Next.js · PWA · Supabase |
+| **Gestão de locação** | PWA para atendimento em tablet — cadastro, contrato com assinatura na tela e QR Code pela câmera, levando o atendimento de ~10 min para menos de 2 min · *demo abaixo ↓* | Dev solo | Next.js · PWA · Supabase |
 | **App de assinatura — saúde e bem-estar** | App mobile (iOS e Android) e painel administrativo web — interface premium fiel à marca, com vídeos, comunidade e assinaturas | Mobile + Web | React Native · Expo · Next.js |
+
+<div align="center">
+
+### 🎬 Gestão de locação em ação
+
+<img src="assets/orla-sup-demo.webp" width="85%" alt="Demonstração: busca por CPF, escolha do equipamento, contrato assinado com QR Code e dashboard com cronômetros de devolução"/>
+
+<sub>Do CPF ao contrato assinado em menos de 2 minutos</sub>
+
+</div>
 
 📁 Veja todos os repositórios em **[github.com/matheusosf11](https://github.com/matheusosf11?tab=repositories)**
 
